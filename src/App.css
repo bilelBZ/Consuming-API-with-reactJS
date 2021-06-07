@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  
+
+}
+.profile{
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: rebeccapurple;
+  margin: auto;
+  margin-top: 10px;
+  padding-top: 10px;
+  color: #fff;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
